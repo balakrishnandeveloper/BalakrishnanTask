@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Balakrishnan Task</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="email">E-mail</string>
+    <string name="enter_email">Enter Your Name Email-id</string>
+    <string name="mobile">Mobile No</string>
+    <string name="enter_mobile">Enter Your Mobile Number</string>
+    <string name="gender">Gender</string>
+    <string name="enter_gender">Enter Your Gender</string>
+    <string name="welcome_content">Welcome !!</string>
+    <string name="add_data">Add Data</string>
+    <string name="view_data">View Data</string>
+    <string name="room_database">RoomDatabase -></string>
+    <string name="user_list">UserDetailsList</string>
+    <string name="room_db_user_list">RoomDatabaseUserList</string>
+    <string name="no_data">No User Data Available Here !!</string>
+    <string name="loading">Loading</string>
+
+</resources>
